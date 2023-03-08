@@ -10,7 +10,7 @@ To use this code, you will need to replace the placeholders for the API keys and
 
 ## Prerequisites to run the website locally:
 
-- [conda](https://www.anaconda.com/)
+- [ChatGPT](https://www.anaconda.com/)
 - [pip](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
 
 ## API keys to add to your placeholders:
