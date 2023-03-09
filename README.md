@@ -10,12 +10,12 @@ To use this code, you will need to replace the placeholders for the API keys and
 
 ## Prerequisites to run the website locally:
 
-- [gpt3](https://www.anaconda.com/)
+- [conda](https://www.anaconda.com/)
 - [pip](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/)
 
 ## API keys to add to your placeholders:
 
-- [conda](https://beta.openai.com/examples/default-openai-api/)
+- [gpt3](https://beta.openai.com/examples/default-openai-api/)
 - [azure computer version](https://azure.microsoft.com/en-us/products/cognitive-services/vision-services)
 - [Text to speech](https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech/)
 
