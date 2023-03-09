@@ -1,0 +1,22 @@
+To run the code without errors, you need to make sure you have the required libraries installed and set up the API keys and endpoints for Azure and OpenAI. Here are the steps to follow:
+
+1. Install the required libraries:
+
+   .opencv-python
+   .azure-cognitiveservices-vision-computervision
+   .azure.cognitiveservices.speech
+   .openai
+   
+   You can use pip to install these libraries. For example, run the following command in the command prompt or terminal:
+
+     -- pip install opencv-python azure-cognitiveservices-vision-computervision azure.cognitiveservices.speech openai
+
+2. Get the API keys and endpoints for Azure Cognitive Services and OpenAI. You can get these by creating accounts on their respective 
+   websites and following the instructions for getting the API keys and endpoints.
+
+3. Replace the API keys and endpoints in the code with your own. You can find the placeholders in the code that 
+   start with "<" and end with ">". Replace these with your own API keys and endpoints.
+
+4. Run the code in a Python environment. You can use an IDE like PyCharm or run the code in the command prompt or terminal using the following command:
+
+     -- python pod.py
